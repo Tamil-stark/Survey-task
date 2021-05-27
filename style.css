@@ -1,0 +1,32 @@
+.name{
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.email{
+    padding-top: 15px;
+}
+.last{
+    position: relative; right: 600px;
+    
+}
+.purchase{
+   background-color: lightgray;
+
+}
+.cls{
+    text-align: center;
+}
+.ans{
+    border-collapse: collapse;
+    text-align: center;
+    height: 200px;
+}
+#ooo{
+    text-align: left;
+}
+
+#fff{
+    padding-top: 15px;
+    text-align: left;
+}
